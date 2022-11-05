@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Autowiring/Autowiring/src/main/java"/>
+	<classpathentry kind="src" path="Billing Software Application/ProductBillingApplication/src/main/java"/>
+	<classpathentry kind="src" path="Constructor Injection/constructorinjection/src/main/java"/>
+	<classpathentry kind="src" path="CurrencyConverter-Collections/CurrencyConverter-XML/src/main/java"/>
+	<classpathentry kind="src" path="Customer-Address Inner Bean/CustomerInnerBean/src/main/java"/>
+	<classpathentry kind="src" path="Customer-Address-Scope/Scope-Customer/src/main/java"/>
+	<classpathentry kind="src" path="DBConfig-SetterBasedInjection/DBConfig/src/main/java"/>
+	<classpathentry kind="src" path="EBanking/EBanking/src/main/java"/>
+	<classpathentry kind="src" path="EngineAnalysis/EngineAnalysis/src/main/java"/>
+	<classpathentry kind="src" path="EZEE Transport/EEZEETransport/src/main/java"/>
+	<classpathentry kind="src" path="Passport Service/PassportService/src/main/java"/>
+	<classpathentry kind="src" path="SpringAopDemo/SpringAopDemo/src/main/java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

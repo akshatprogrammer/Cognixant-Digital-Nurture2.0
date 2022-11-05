@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Electricity Bill/ElectricityBill/src"/>
+	<classpathentry kind="src" path="Hands On - LMS Refactoring/LMS/src"/>
+	<classpathentry kind="src" path="Parameterized/RainbowJewellersParameterizedTest/src"/>
+	<classpathentry kind="src" path="Product Login Test suite/ProductLogin/src"/>
+	<classpathentry kind="src" path="Testing Using Assertion/AssertionTest/src"/>
+	<classpathentry kind="src" path="TestMockDB/TestMockDB/src"/>
+	<classpathentry kind="src" path="Verify Call - JUnit using Mockito/VerifyCall/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
